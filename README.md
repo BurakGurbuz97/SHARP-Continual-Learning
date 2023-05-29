@@ -4,5 +4,3 @@
 
 
 ![SHARP](main_figure.png)
-
-## Paper
